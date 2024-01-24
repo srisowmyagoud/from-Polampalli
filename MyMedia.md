@@ -36,4 +36,4 @@ const value =  os.cpus();
 console.log("os.cpus() ==> " + JSON.stringify(value) ); 
 
 ```
-[](https://code.pieces.app/collections/node-js)
+[Code Link](https://code.pieces.app/collections/node-js)
