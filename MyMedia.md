@@ -23,3 +23,13 @@
 
 > "You can't cross the sea merely by standing and staring at the water."
 ***- Rabindranath Tagore***
+
+*** 
+# CODE FENCING
+```
+const os = require('os');
+const value =  os.cpus();
+
+console.log("os.cpus() ==> " + JSON.stringify(value) ); 
+
+```
