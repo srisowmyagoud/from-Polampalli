@@ -7,7 +7,7 @@
 # TABLE
 >This table describes about Book ,Author and Significance of book<br>
 
-|:*Book*:|:*Reason*:|:*Author*:|
+| *Book* | *Reason* | *Author* |
 | --- | --- | ---: |
 | Never Quit on a Bad Day | Its inspiring stories of thriving enterpreneurs | Phebe Trotman |
 | It Ends With Us | It is Brave and Heartbreaking Novel | Coolen Hoover |
