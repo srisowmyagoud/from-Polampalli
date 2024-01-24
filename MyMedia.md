@@ -19,7 +19,7 @@
 
 > "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action."
 > "All of us do not have equal talent. But, all of us have an equal opportunity to develop our talents."
-*** A.P.J. Abdul Kalam ***
+***A.P.J. Abdul Kalam***
 
 > "You can't cross the sea merely by standing and staring at the water."
-*** Rabindranath Tagore ***
+***Rabindranath Tagore***
