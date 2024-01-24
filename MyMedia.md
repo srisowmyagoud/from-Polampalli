@@ -1,0 +1,3 @@
+# POLAMPALLI SRI SOWMYA
+>"Rich Dad Poor Dad" is a personal finance classic written by Robert Kiyosaki. Published in 1997, the book contrasts the financial philosophies of the author's "rich dad," his best friend's father, and his own "poor dad," his biological father. Kiyosaki emphasizes the importance of financial education, investment, and entrepreneurship. Interestingly, the book was initially self-published, and despite facing rejection from traditional publishers, it went on to become a massive success, selling millions of copies worldwide. Its impact on changing perspectives about wealth-building and financial literacy has made "Rich Dad Poor Dad" a widely influential and enduring work in the realm of personal finance literature.
+![Sowmya](IMAGE.jpeg)
