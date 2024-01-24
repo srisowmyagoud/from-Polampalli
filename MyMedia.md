@@ -25,7 +25,10 @@
 ***- Rabindranath Tagore***
 
 *** 
-# CODE FENCING
+# Code Fencing
+
+>This code gives information about all the CPUs availble and their Data
+
 ```
 const os = require('os');
 const value =  os.cpus();
@@ -33,3 +36,4 @@ const value =  os.cpus();
 console.log("os.cpus() ==> " + JSON.stringify(value) ); 
 
 ```
+[](https://code.pieces.app/collections/node-js)
